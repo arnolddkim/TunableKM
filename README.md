@@ -1,7 +1,7 @@
 # TunableKM
 Matlab codes that compute images formed using KM and modified KM methods for SAR measurements.
 
-These codes have been used to generate the results presented in the manuscript entitled, "Tunable high-resolution synthetic aperture radar imaging" by A. D. Kim and C. Tsogka.
+These codes have been used to generate the results presented in the manuscript entitled, "Tunable high-resolution synthetic aperture radar imaging" by A. D. Kim and C. Tsogka. The abstract for this manuscript appears below.
 
 ## Abstract
 
